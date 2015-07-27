@@ -1,0 +1,2 @@
+- meglio inserire anche un formato universalmente apribile tipo *.dxf (una versione vecchia tipo 2004)
+- BOM per la fabbricazione

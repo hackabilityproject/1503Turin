@@ -1,0 +1,13 @@
+add here all the information needed to modify the files, make the parts, assemble them together, test the product and properly use it
+
+no projects are perfect, it's good to add all the known bugs and what are you going to do
+
+we hope other peoples will modify and make new, personalized versions of this project. please help them to make the documentation as well.
+use where possible opensource softwares to write your documentation, this will make it editable easily:
+- libreoffice
+- scribus
+
+where not possible, accessible formats, like TXT or RTF
+if not possible, something that everybody can read like PDF
+in alternative something free to use like google docs
+keep in mind that *.doc\*.docx  *.ppt\*.pptx *.xls\*.xlsx are readable with not microsoft software as well, but not so easily

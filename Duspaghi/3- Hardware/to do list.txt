@@ -1,0 +1,7 @@
+- inserire gli schematici e le board dell'elettronica (i pdf possono essere facilmente scalati sbagliati...)
+- fare un carrello con i componenti necessari su farnell, mouser o rs-components (io uso farnell, ma come preferisci)
+
+
+l'elettronica è una delle parti più ostiche, tutte le info extra che puoi mettere sono di sicuro d'aiuto
+
+ 

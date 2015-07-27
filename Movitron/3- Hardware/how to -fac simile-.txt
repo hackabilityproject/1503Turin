@@ -1,0 +1,5 @@
+- fare un carrello della spesa su farnell, rs-components, etc. con tutti i componenti elettronic necessari (se non si trovano tutte le cose che servono sullo stesso sito, basta inserirne uno per ogni sito)
+- inserire uno schematico dell'elettronica (eagle, kicad o fritzing)
+- inserire la board se c'è
+
+ricordate che spesso l'elettronica è l'ostacolo più grosso, qualsiasi aiuto extra in questo punto è sicuramente apprezzato

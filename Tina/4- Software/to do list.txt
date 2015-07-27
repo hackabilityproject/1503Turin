@@ -1,0 +1,2 @@
+- mettere il codice arduino, etc.
+- se ci sono bachi noti segnalarli

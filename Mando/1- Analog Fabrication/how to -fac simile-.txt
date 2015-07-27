@@ -1,0 +1,5 @@
+the product need to interact with radio controlled plugs like this:
+
+http://www.amazon.it/Brennenstuhl-Comfort-1000N-telecomandate-telecomando/dp/B001AX8QUM/ref=sr_1_1?ie=UTF8&qid=1434102420&sr=8-1&keywords=prese+elettriche+telecomandate
+
+please check the maximum current\power to fit your application

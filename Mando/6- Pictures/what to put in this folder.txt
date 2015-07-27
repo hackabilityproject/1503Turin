@@ -1,0 +1,9 @@
+please keep in mind that this documentation is hosted on github.
+add extra pictures if needed to explain the features of the object, if not already in the tutorial, etc. 
+
+please use:
+.jpg with a resolution of 1000x850 max at an export quality of 75%
+
+this folder shouldn't be larger then 10mb
+
+larger photos can be uploaded and linked from www.hackability.it

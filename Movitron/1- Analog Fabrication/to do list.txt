@@ -1,0 +1,1 @@
+- inserire tutte le parti standard, prese e modificate, ad esempio il trepiede, i magnetini, etc. mettendo una BOM (lista di materiali), con un link da cui è acquistabile, anche solo come esempio

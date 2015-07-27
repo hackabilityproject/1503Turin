@@ -1,0 +1,9 @@
+please keep in mind that this documentation is hosted on github.
+add extra pictures if needed to explain the features of the object, if not already in the tutorial, etc. 
+
+please use:
+compressed video with a max resolution of 640x480px
+
+this folder shouldn't be larger then 30mb
+
+larger videos can be uploaded and linked from www.hackability.it

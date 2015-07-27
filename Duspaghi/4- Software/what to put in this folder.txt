@@ -1,0 +1,10 @@
+This product does not need to be programmed or it's not connected to something that use any kind of code.
+If you want to update and improve this version, introducing embedded programming, please add the code in here.
+
+put here any software you wrote. please remember that a code become much simplier if properly commented. instead of add too many instructions here on how to set and change the code, take your time to properly comment the code.
+
+the code can be written basically the way you want but we strongly suggest to use something widely known and accessible
+- arduino
+- processing
+- python
+- etc.

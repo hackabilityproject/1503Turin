@@ -1,0 +1,3 @@
+- inserire il codice arduino, le musiche usate, come caricarle etc.
+
+tutti i software che servono vanno qui.

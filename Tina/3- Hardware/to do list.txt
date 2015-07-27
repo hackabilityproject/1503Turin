@@ -1,0 +1,3 @@
+- fare un carrello su farnell o rs-components con i componenti necessari
+- inserire un fritzing, eagle o kicad che spieghi come connettere le cose
+- spiegare come è stato collegato al joystick

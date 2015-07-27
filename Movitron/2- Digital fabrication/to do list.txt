@@ -1,0 +1,2 @@
+- inserire i file per il taglio laser dentro una cartella chiamata "lasercut"
+- inserire una BOM con dei riferimenti a dove comprarlo online

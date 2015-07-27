@@ -1,0 +1,9 @@
+- genuino
+- arduino compatibles
+- arduino
+- arduino shields
+- DIY boards (better if released under open hardware licences)
+- raspberry pi
+- any open hardware boards
+- BOM
+- all the informations to make the entire electronic part

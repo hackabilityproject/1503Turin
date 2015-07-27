@@ -1,0 +1,4 @@
+- inserire almeno il fritzing per far capire come assemblarlo e poter tirare fuori uno shield o una board
+- se possibile la bom con dei link da farnell o rs-compoments con i link anche sui componenti passivi
+- solo la parte di elettronica qui
+
