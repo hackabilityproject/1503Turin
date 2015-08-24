@@ -1,0 +1,8 @@
+if you have to modify an existing object, please add some links that point to an english written page with the explicit specifications of the product. In your documentation add a note that underline which features are important to keep or to find in an alternative product. Always explain why, it's a good way to teach somethign you learned and make the process easy. use internationally available website like:
+- store.arduino.cc
+- sparkfun.com
+- rs-online.com
+- farnell.com
+- mouser.com
+- amazon.com
+- ebay.com

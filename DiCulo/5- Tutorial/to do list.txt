@@ -1,0 +1,7 @@
+spiega in un documento come fare un altro DiCulo:
+- step in ordine
+- come costruire la struttura (dove trovo il materiale, quanto me ne serve, costo, esempi di fornitori)
+- come la interfaccio alla carrozzina (collegamenti, esistono standard, etc. )
+- come assemblare il tutto
+
+la documentazione è una parte noiosa, ma se fatta bene è la cosa che più probabilmente influenza la diffusione del progetto, che anzichè essere utile solo ad una persona, diventa utile potenzialmente per decine o centinaia di persone 
