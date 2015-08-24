@@ -1,4 +1,4 @@
-spiega in un documento come fare un altro movitron:
+spiega in un documento come fare un'altra tina:
 - step in ordine
 - come costruire la struttura (dove trovo il materiale, quanto me ne serve, costo, esempi di fornitori)
 - come collegare l'elettronica (dove trovo il materiale, quanto me ne serve, costo, esempi di fornitori)
@@ -6,4 +6,4 @@ spiega in un documento come fare un altro movitron:
 - come programmarla (quale codice, come programmarla, etc)
 - come assemblare il tutto
 
-la documentazione è una parte noiosa, ma se fatta bene è la cosa che più probabilmente influenza la diffusione del progetto, che anzichè essere utile solo ad una persona, diventa utile potenzialmente per decine o centinaia di persone 
+la documentazione Ã¨ una parte noiosa, ma se fatta bene Ã¨ la cosa che piÃ¹ probabilmente influenza la diffusione del progetto, che anzichÃ¨ essere utile solo ad una persona, diventa utile potenzialmente per decine o centinaia di persone 
